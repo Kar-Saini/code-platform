@@ -9,11 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@monaco-editor/react": "^4.6.0",
     "@next-auth/prisma-adapter": "^1.0.7",
     "@repo/db": "*",
     "@repo/ui": "*",
     "@repo/zod": "*",
     "@types/next-auth": "^3.15.0",
+    "@uiw/react-codemirror": "^4.23.2",
     "bcrypt": "^5.1.1",
     "clsx": "^2.1.1",
     "next": "14.2.6",
